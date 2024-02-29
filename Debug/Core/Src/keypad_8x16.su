@@ -1,0 +1,2 @@
+../Core/Src/keypad_8x16.c:9:6:keypad_init	32	static
+../Core/Src/keypad_8x16.c:156:9:detector	16	static
